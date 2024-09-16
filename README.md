@@ -23,8 +23,11 @@ The mobile app displays real-time readings from the sensors.
 If a dangerous level of flammable gas is detected, the app will display a warning, and the buzzer will sound an alarm.
 
 ## Screenshot
-![](https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/mobilAppScreenShot.jpg)
-![](https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/mobileAppScreenShot2.jpg)
+
+<p align="center">
+  <img src="https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/mobilAppScreenShot.jpg" alt="Resim 1" width="400" />
+  <img src="https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/mobileAppScreenShot2.jpg" alt="Resim 2" width="400" />
+</p>
 
 ## Diagram
 ![](https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/circuit%20diagram.png)
