@@ -33,6 +33,8 @@ If a dangerous level of flammable gas is detected, the app will display a warnin
 ![](https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/circuit%20diagram.png)
 
 ## Images
-![](https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/1.jpg)
-![](https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/2.jpg)
 
+<p align="center">
+  <img src="https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/1.jpg" alt="Resim 1" width="400" />
+  <img src="https://github.com/ibrahim200406/gas-leak-mobileApp/blob/main/2.jpg" alt="Resim 2" width="400" />
+</p>
